@@ -4,6 +4,6 @@ def say_hello(name):
 
 
 
-result = say_hello("New Person")
+result = say_hello("Carina")
 
 print(result)
